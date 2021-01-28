@@ -9,7 +9,7 @@ Se utilizaron los siguientes algoritmos de ML:
 
 Links:
 
-https://scikit-learn.org/stable/modules/cross_validation.html
-https://machinelearningmastery.com/out-of-fold-predictions-in-machine-learning/
-https://aprendeia.com/navie-bayes-practica-con-python-machine-learning/
-https://www.pluralsight.com/guides/validating-machine-learning-models-scikit-learn
+- https://scikit-learn.org/stable/modules/cross_validation.html
+- https://machinelearningmastery.com/out-of-fold-predictions-in-machine-learning/
+- https://aprendeia.com/navie-bayes-practica-con-python-machine-learning/
+- https://www.pluralsight.com/guides/validating-machine-learning-models-scikit-learn
